@@ -1,13 +1,13 @@
 
 
-<h2>**Hi, I’m Arshad. 👋**</h2>
+<h2>Hi, I’m Arshad. 👋</h2>
 _________________________________________________________________________________
 
-**💁🏻 About Me**
+<h3> 💁🏻 About Me </h3>
 
 I'm a data analyst currently working with a large bank based out of UK. I completed my MBA (Business Economics) from University of Delhi which is a course that primarily focuses on Economics, Statistics and Econometrics.
 
-**� My Skills**
+<h3> � My Skills </h3>
 
 - SQL
 - Microsoft Excel
