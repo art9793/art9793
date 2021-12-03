@@ -3,7 +3,7 @@
 <h2>Hi, I’m Arshad. 👋</h2>
 
 
-<h3> 💁🏻 About Me </h3>
+<h3>  💁🏻 About Me </h3>
 
 I'm a data analyst currently working with a large bank based out of UK. I completed my MBA (Business Economics) from University of Delhi which is a course that primarily focuses on Economics, Statistics and Econometrics.
 
