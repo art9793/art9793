@@ -1,21 +1,18 @@
 
 
-<h2>Hi, I’m Arshad. 👋</h2>
+<h1>Hi, I’m Arshad. 👋</h1>
 
 
-<h3> 💁🏻  About Me </h3>
+<h2> About Me </h2>
 
-I'm a data analyst currently working with a large bank based out of UK. I completed my MBA (Business Economics) from University of Delhi which is a course that primarily focuses on Economics, Statistics and Econometrics.
+I'm a Product Manager working with a UK based fintech. When not at work, I like to read, write and build cool stuff!
 
-<h3> � My Skills </h3>
+<h2> My Skills </h2>
 
-- SQL
-- Microsoft Excel
-- Python
-- Tableau 
-
-
-
+- Product Management
+- Figma
+- Web Development -> HTML, CSS & Javascript 
+- Data Analysis -> SQL, MS Excel 
 
 
 
