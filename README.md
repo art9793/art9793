@@ -1,16 +1,16 @@
 
 
-<h1>Hi, I’m Arshad. 👋</h1>
+<h1>Hey, I’m Arshad.</h1>
 
 
 <h2> About Me </h2>
 
 I'm a Product Manager working with a UK based fintech. When not at work, I like to read, write and build cool stuff!
 
-<h2> My Skills </h2>
+<h2> Skills </h2>
 
 - Product Management
-- Figma
+- Figma    
 - Web Development -> HTML, CSS & Javascript 
 - Data Analysis -> SQL, MS Excel 
 
