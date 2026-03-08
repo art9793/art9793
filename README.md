@@ -6,7 +6,7 @@
 
 <p>
 <a href="https://arshad-teli.com"><img src="https://img.shields.io/badge/Portfolio-arshad--teli.com-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="https://linkedin.com/in/arshadteli"><img src="https://img.shields.io/badge/LinkedIn-arshadteli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/arshad-teli/"><img src="https://img.shields.io/badge/LinkedIn-arshadteli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:art9793@gmail.com"><img src="https://img.shields.io/badge/Email-art9793@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -153,7 +153,7 @@ An **autonomous 5-agent business operating system** built on Claude Code. A CEO 
 I'm always open to interesting conversations about product, AI agents, or building things from scratch.
 
 <a href="https://arshad-teli.com"><img src="https://img.shields.io/badge/arshad--teli.com-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="https://linkedin.com/in/arshadteli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/arshad-teli/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:art9793@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
