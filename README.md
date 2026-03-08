@@ -2,7 +2,7 @@
 
 # Hey, I'm Arshad Teli
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&random=false&width=600&height=60&lines=Senior+Product+Manager+%7C+Builder+%7C+7%2B+Years+in+Fintech;Shipping+products+from+0+%E2%86%92+1+across+UK%2C+Germany+%26+India" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=480&height=35&lines=Senior+PM+%7C+Builder+%7C+7%2B+Years+in+Fintech;Shipping+0+%E2%86%92+1+products+across+4+markets" alt="Typing SVG" /></a>
 
 <p>
 <a href="https://arshad-teli.com"><img src="https://img.shields.io/badge/Portfolio-arshad--teli.com-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
