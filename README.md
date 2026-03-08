@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a **Senior Product Manager at [Tide](https://www.tide.co/)** — a UK-based fintech serving 500K+ small businesses. I specialise in solving ambiguous problems with structured thinking, data-driven experimentation, and clear product strategy.
+I'm a **Senior Product Manager at [Tide](https://www.tide.co/)** — a fintech serving **1M+ small businesses** across the UK, India, Germany & France. I specialise in solving ambiguous problems with structured thinking, data-driven experimentation, and clear product strategy.
 
 - Led multi-market product launches across **UK, Germany & India** — driving **250% uplift in product adoption** and improving onboarding completion from 60% to 66%
 - Previously a **Strategy Analyst at Barclays**, where I launched a KYC analytics product that unlocked **£1M+ in new revenue**
