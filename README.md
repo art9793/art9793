@@ -33,7 +33,7 @@ When I'm not at work, I'm building products from scratch — designing, coding, 
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/art9793/claude-code-os">Claude OS</a>
+### <a href="https://github.com/art9793/claude-code-os">Claude Code OS</a>
 An **autonomous 5-agent business operating system** built on Claude Code. A CEO orchestrator routes tasks to specialist agents (Growth, PM, Designer, Engineer, Copywriter) through file-based handoffs — all in 77 lines of routing logic.
 
 <p>
